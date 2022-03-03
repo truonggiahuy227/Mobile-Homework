@@ -1,4 +1,0 @@
-#Thu Mar 11 22:44:25 ICT 2021
-base.0=F\:\\F-Document\\Android\\Learning\\HelloWorld\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
